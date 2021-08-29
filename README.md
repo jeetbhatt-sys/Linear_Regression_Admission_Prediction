@@ -1,0 +1,2 @@
+# Linear_Regression_Admission_Prediction
+Admission Prediction using Linear Regression Model
