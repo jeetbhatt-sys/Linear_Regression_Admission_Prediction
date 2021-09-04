@@ -5,6 +5,8 @@ Heroku Deployment : https://admissionprediction1.herokuapp.com/
 
 AWS Deployment : http://admissionprediction-env.eba-ajbmdwgw.us-east-2.elasticbeanstalk.com/
 
+Azure Deployment : https://admissionprediction09.azurewebsites.net/
+
 **Context**
 This dataset is created for prediction of Graduate Admissions from an Indian perspective.
 
