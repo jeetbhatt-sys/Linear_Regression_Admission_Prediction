@@ -2,6 +2,7 @@
 Admission Prediction using Linear Regression Model
 
 Heroku Deployment : https://admissionprediction1.herokuapp.com/
+AWS Deployment : http://admissionprediction-env.eba-ajbmdwgw.us-east-2.elasticbeanstalk.com/
 
 **Context**
 This dataset is created for prediction of Graduate Admissions from an Indian perspective.
