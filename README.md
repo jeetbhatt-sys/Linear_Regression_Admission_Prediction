@@ -1,6 +1,7 @@
 # Linear_Regression_Admission_Prediction
 Admission Prediction using Linear Regression Model
 
+Heroku Deployment : https://admissionprediction1.herokuapp.com/
 
 **Context**
 This dataset is created for prediction of Graduate Admissions from an Indian perspective.
